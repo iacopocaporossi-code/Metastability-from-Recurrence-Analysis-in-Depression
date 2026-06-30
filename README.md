@@ -10,7 +10,7 @@ Our results show that an abrupt increase in the average degree of the network, t
 ## Repository Structure
 Following open science and reproducible research principles, the repository is structured as follows:
 
-* **`Code/`**: Contains the Python scripts (`.py` or `.ipynb`) used for data preprocessing, recurrence quantification analysis (RQA), and network metrics computation.
+* **`Code/`**: Contains the Python scripts used for data preprocessing, recurrence quantification analysis (RQA), and network metrics computation.
 * **`Data/`**: Contains exclusively the final processed version of the dataset used to generate the numerical results presented in the manuscript.
 * **`README.md`**: This file, providing a general overview, directory structure, and data attribution.
 
